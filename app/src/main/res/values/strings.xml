@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyNote</string>
+    <string name="title_activity_mi_note_menu">MainActivity</string>
+    <string name="title_home">Notas</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">My cuenta</string>
+    <string name="title_favorites">Favoritos</string>
+    <string name="addNote">Agreagr</string>
+    <string name="cancel">Cancelar</string>
+    <string name="addNoteTitle">Nueva nota</string>
+    <string name="updateNote">Modificar</string>
+    <string name="title_activity_prueba">MainActivity</string>
+    <string name="newNoteTitle">Nueva nota</string>
+    <string name="hintNewNote">Ingrese la información de la nota</string>
+</resources>

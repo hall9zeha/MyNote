@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigationHome">
+
+    <fragment
+        android:id="@+id/navigationHome"
+        android:name="com.barryzea.mynote.ui.noteFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_item_list" />
+
+    <fragment
+        android:id="@+id/navigationFavorites"
+        android:name="com.barryzea.mynote.ui.dashboard.DashboardFragment"
+        android:label="@string/title_favorites"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/navigationMyAccount"
+        android:name="com.barryzea.mynote.ui.notifications.NotificationsFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_notifications" />
+</navigation>
