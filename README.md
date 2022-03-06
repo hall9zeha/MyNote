@@ -14,9 +14,9 @@ Aplicación para crear notas de texto escrita en Java y construida en Android St
 
 ## Capturas de MyNote :framed_picture:
 
-<img src="https://github.com/hall9zeha/MasterFirebase/blob/main/Screenshots/Screenshot_20220303-130141~2.jpg" alt="drawing" width="300"/>|
-<img src="https://github.com/hall9zeha/MasterFirebase/blob/main/Screenshots/Screenshot_20220303-130149~2.jpg" alt="drawing" width="300"/>|
-<img src="https://github.com/hall9zeha/MasterFirebase/blob/main/Screenshots/Screenshot_20220303-130157~2.jpg" alt="drawing" width="300"/>|
-<img src="https://github.com/hall9zeha/MasterFirebase/blob/main/Screenshots/Screenshot_20220303-130222~2.jpg" alt="drawing" width="300"/>
+<img src="https://github.com/hall9zeha/MyNote/blob/main/Screenshots/Screenshot_20220305-150400.jpg" alt="drawing" width="300"/>|
+<img src="https://github.com/hall9zeha/MyNote/blob/main/Screenshots/Screenshot_20220305-150649.jpg" alt="drawing" width="300"/>|
+<img src="https://github.com/hall9zeha/MyNote/blob/main/Screenshots/Screenshot_20220305-150702.jpg" alt="drawing" width="300"/>|
+
 
 
